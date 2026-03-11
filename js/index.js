@@ -17,9 +17,9 @@ if (container) {
     const selectedValue = e.target.value;
     console.log("選択された値:", selectedValue);
 
-    if (selectedValue === 'atten') {
+    if (selectedValue == 'atten') {
       console.log('attenを選択しました');
-    } else if (selectedValue === 'scratch') {
+    } else if (selectedValue == 'scratch') {
       console.log('scratchを選択しました');
     }
   });
