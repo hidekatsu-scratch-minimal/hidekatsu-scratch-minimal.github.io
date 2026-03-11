@@ -1,0 +1,27 @@
+{"domein":{"s":"https://scratch.mit.edu","a":"https://atten.win"},}
+{"domein":
+  {"s":
+    {"link":
+      "https://scratch.mit.edu",
+    "sub":
+      {"u":
+        {"link":
+          "/users",
+        "sab":
+          {"all":
+            {"link":
+              "all",
+            "sub":
+              {"p":
+                {"link":
+                  "/projects",
+                "sub":"none"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
