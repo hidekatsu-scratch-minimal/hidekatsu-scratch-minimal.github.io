@@ -7,7 +7,7 @@ document.getElementById("nyuuryoku").innerHTML = `
 <div class="konoato"></div>`;
 
 const select = document.getElementById('nyuuryoku');
-select.addEventListener('change'(e) => {
+select.addEventListener('change' , (e) => {
   const selectedValue = e.target.value;
   
   if (selectedValue === 'atten') {
